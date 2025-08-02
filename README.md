@@ -22,7 +22,7 @@ The dashboard provides an intuitive interface with:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/mqtt-drone-control.git
+git clone https://github.com/sarnak-developing2310/mqtt-drone-control.git
 cd mqtt-drone-control
 ```
 
